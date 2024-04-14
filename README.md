@@ -53,7 +53,7 @@ To run this project locally, follow these steps:
 Set up a MySQL database and connect to it using MySQL Workbench or any other SQL client.
 Import the dataset file (sales_data.csv) into your MySQL database.
 Navigate to the sql/ directory and execute the SQL scripts to perform data analysis.
-License
+#### License
 This project is licensed under the MIT License.
 
 ### Acknowledgements
